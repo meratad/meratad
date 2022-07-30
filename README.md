@@ -1,16 +1,24 @@
- Hi there 👋
 
-<!--
-**meratad/meratad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+   Hello, I am Mert 👋
+</div>
 
-Here are some ideas to get you started:
+---
+<div align="center">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I have a BA in Political Science and right now getting an MA in International Relations. 
+ 
+For my BA, I focused on propaganda, election campaigns and social media.
+
+For my MA, I am working on cyberthreats, international law and cybersecurity.
+</div>
+
+
+---
+
+<div align="center">
+
+Currently using freecodecamp, patika.dev and TryHackMe to learn Python and improve myself in cybersecurity.
+
+</div>
+
