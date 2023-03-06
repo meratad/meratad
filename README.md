@@ -18,7 +18,7 @@ For my MA, I am working on cyberthreats, international law and cybersecurity.
 
 <div align="center">
 
-Currently using freecodecamp, patika.dev and TryHackMe to learn Python and improve myself in data.
+Currently using freecodecamp and patika.dev to learn Python and improve myself in data.
 
 </div>
 
