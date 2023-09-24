@@ -8,9 +8,9 @@
 
 I have a BA in Political Science and an MA in International Relations. 
  
-For my BA, I focused on propaganda, election campaigns and social media.
+For my BA, I specialized in the study of propaganda, election campaigns, and the influence of social media.
 
-For my MA, I am working on cyberthreats, international law and cybersecurity.
+During my MA, my research focused on cyber threats, international law, and cybersecurity.
 </div>
 
 
