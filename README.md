@@ -18,7 +18,7 @@ During my MA, my research focused on cyber threats, international law, and cyber
 
 <div align="center">
 
-Currently using freecodecamp and patika.dev to learn Python and improve myself in data.
+Right now, my main area of focus is data.
 
 </div>
 
