@@ -6,7 +6,7 @@
 ---
 <div align="center">
 
-I have a BA in Political Science and right now getting an MA in International Relations. 
+I have a BA in Political Science and an MA in International Relations. 
  
 For my BA, I focused on propaganda, election campaigns and social media.
 
