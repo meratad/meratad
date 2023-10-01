@@ -18,7 +18,7 @@ During my MA, my research focused on cyber threats, international law, and cyber
 
 <div align="center">
 
-Right now, my main area of focus is data.
+Right now, I am learning how to use data to create meaningful insights about social life and try to improve my technical abilities in cybersecurity.
 
 </div>
 
